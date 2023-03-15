@@ -1,0 +1,11 @@
+body{
+    height: 100vh;
+}
+.container {
+    margin-top: 200px;
+}
+.col-4{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 20px;
+    border-radius: 6px;
+}

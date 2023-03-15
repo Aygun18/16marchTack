@@ -1,0 +1,91 @@
+.myClass1{
+    width: 960px;
+    height: 360px;
+    padding-top: 140px;
+    color: aliceblue;
+    font-size: 50px;
+    font-family: 'Ink Free';
+    margin-top: 10px;
+    
+}
+
+.myClass2{
+    width: 290px;
+    height: 180px;
+    padding-top: 70px;
+    color: aliceblue;
+    font-size: 20px;
+    font-family: 'Ink Free';
+    margin-top: 30px;
+    margin-right: 45px;
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+    
+}
+
+.myClass3{
+      width: 290px;
+    height: 180px;
+    padding-top: 70px;
+    color: aliceblue;
+    font-size: 20px;
+    font-family: 'Ink Free';
+    margin-top: 30px;
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+}
+
+.myClass4{
+  width: 290px;
+  height: 180px;
+  padding-top: 70px;
+  color: aliceblue;
+  font-size: 20px;
+  font-family: 'Ink Free';
+  margin-top: 30px;
+  box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+}
+
+.row{
+    width: 1000px;
+}
+
+.myClass5{
+    width: 290px;
+    height: 180px;
+    color: #000;
+    font-size: 20px;
+    margin-top: 30px;
+    font-family: 'Corbel';
+    
+  }
+.myClass5 span{
+    font-style: italic;
+    font-weight: bold;
+}
+
+.myClass6{
+    width: 290px;
+    height: 180px;
+    color: #000;
+    font-size: 20px;
+    margin-top: 30px;
+    font-family: 'Corbel';
+    
+  }
+.myClass6 span{
+    font-style: italic;
+    font-weight: bold;
+}
+
+.myClass7{
+    width: 290px;
+    height: 180px;
+    color: #000;
+    font-size: 20px;
+    margin-top: 30px;
+    font-family: 'Corbel';
+    
+  }
+.myClass7 span{
+    font-style: italic;
+    font-weight: bold;
+}
